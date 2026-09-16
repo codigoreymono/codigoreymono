@@ -1,16 +1,15 @@
-## Hi there 👋
+# Andrés Contreras
 
-<!--
-**codigoreymono/codigoreymono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer & Mechatronics Engineer.
 
-Here are some ideas to get you started:
+I work with **Python** and **SQL**, and I'm interested in data engineering, Linux, and open-source technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> Python | SQL | Linux | NixOS
+
+```bash
+andres@nixos ~ $ whoami
+Data Engineer · Mechatronics Engineer
+```
+
