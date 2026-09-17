@@ -4,7 +4,7 @@ Data Engineer & Mechatronics Engineer.
 
 I work with **Python** and **SQL**, and I'm interested in data engineering, Linux, and open-source technologies.
 
->_ https://codigoreymono.github.io/
+> https://codigoreymono.github.io/
 
 ---
 
